@@ -1,2 +1,2 @@
 # projeto-CECA
-Trabalho desenvolvido por Neide Martim e Ariel Basso baseado no curso alura e no projeto agrinho e suas demandas
+Trabalho desenvolvido por Ariel Basso, com a contribuição da professora Neide Martim da disciplina de Pensamento Computacional. O projeto foi baseado nos cursos da plataforma Alura e no cONCURSO Agrinho e suas demandas. O objetivo do projeto é divulgar a história do Colégio Estadual do Campo Castro Alves, informar toda a comunidade sobre o trabalho realizado pelos alunos, professores e funcionários e fortalecer o contato dos pais com o colégio. 
